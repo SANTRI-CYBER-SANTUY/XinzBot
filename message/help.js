@@ -11,6 +11,8 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *Lib : Baileys V.3.5.1*
 ├≽ *Prefix : 「 ${prefix} 」*
 ├≽ *Total Fitur : 200+*
+├≽ *IG : @akku_santuy*
+├≽ *FB : Fb.com/Mr.SANTUY.Cuk*
 ├≽ *Total Pengguna : ${pendaftar.length}*
 ├≽ *Tanggal : ${tanggal}*
 ├≽ *Pukul : ${jam}*
@@ -46,6 +48,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ╞═══ 《 *THANKS TO* 》 ═══
 ├────────────────────
+├≽ *./W4D3R1337*
 ├≽ *Xinz-Team*
 ├≽ *Aqulzz*
 ├≽ *Nafizz*
@@ -330,6 +333,7 @@ exports.otherMenu = (prefix, ownerName) => {
 exports.hentaiMenu = (prefix, ownerName) => {
     return `╒═══ 《 *18+ MENU* 》 ═══
 ├────────────────────
+├≽ *BUKAN UNTUK ANAK-ANAK*
 ├≽ *${prefix}randomhentong*
 ├≽ *${prefix}kemonomimi*
 ├≽ *${prefix}ero*
@@ -350,6 +354,7 @@ exports.storageMenu = (prefix, ownerName) => {
     return `╒═══ 《 *STORAGE MENU* 》 ═══
 ├────────────────────
 ├≽ *${prefix}sound*
+├≽ *DISINI ADA LAGU 30 DETIK*
 ├─────────────────────
 ╘═══ 《 *By ${ownerName}* 》 ═══`
 }
