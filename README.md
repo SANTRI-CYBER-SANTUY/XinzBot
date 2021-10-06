@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/santri-cyber-santuy/main/media/cok.jpg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/santri-cyber-santuy/XinzBot/main/media/cok.jpg" alt="W4D3R-BOT" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="W4D3R-BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
