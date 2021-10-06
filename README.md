@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/santri-cyber-santuy/XinzBot/main/media/cok.jpg" alt="W4D3R-BOT" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="W4D3R-BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="W4D3R-BOT" src="https://img.shields.io/badge/W4D3R-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github"></a>
@@ -106,6 +106,7 @@ webpmux -version
 ```
 
 ## Donate
+- [Pulsa](wa.me/+6288215393438)
 - [Saweria](https://saweria.co/aqulzz)
 - [Trakteer](https://trakteer.id/aqulzz)
 
